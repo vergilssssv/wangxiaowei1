@@ -47,5 +47,4 @@ function setBGC() {
 	}
 
 
-
 //setInterval(setBGC, 300);
